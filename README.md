@@ -16,6 +16,8 @@ If you are interested in using Markdown and want an overview of the various thin
 [Links](#links)  
 [Tables](#tables)  
 
+---
+
 ## Escape Character
 
 The first thing to understand about Markdown is the escape character, which is the backslash ( \\ ).  
