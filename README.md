@@ -246,7 +246,7 @@ You can also link to headers within a document, rather than linking to a url; yo
 To do so, format it like a normal link, but in the place of the url, put in a pound key immediately followed by the text of the header you're linking to within your document.
 
 ```
-[Links](#links)
+[Basic Formatting](#basic-formatting)
 ```
 
 [Basic Formatting](#basic-formatting)
