@@ -243,7 +243,7 @@ You can also add text that appears when hovering over the link by putting it ins
 [This is a link to Wikipedia](https://www.wikipedia.org/ "The Free Encyclopedia")
 
 You can also link to headers within a document, rather than linking to a url; you can see this in action in the table of contents at the top of this document.  
-To do so, format it like a normal link, but in the place of the url, put in a pound key immediately followed by the name of the text of the header you're linking to within your document.
+To do so, format it like a normal link, but in the place of the url, put in a pound key immediately followed by the text of the header you're linking to within your document.
 
 ```
 [Links](#links)
