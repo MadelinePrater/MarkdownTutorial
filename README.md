@@ -69,7 +69,7 @@ And using three asterisks results in bold italic text:
 
 ***Hello World***
 
-Additionally, you can strikethrough text by surrounding the text with two tilde ( \~\~ ) on each side.
+Additionally, you can strikethrough text by surrounding the text with two tildes ( \~\~ ) on each side.
 
 ```
 ~~Hello World~~
