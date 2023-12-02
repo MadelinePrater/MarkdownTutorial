@@ -56,7 +56,7 @@ Surrounding text with a single asterisk gives italic text, like so:
 Surrounding it with two asterisks instead gives bold text:
 
 ```
-**Hello World*
+**Hello World**
 ```
 
 **Hello World**
